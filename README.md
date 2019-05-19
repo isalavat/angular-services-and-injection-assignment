@@ -1,4 +1,4 @@
-<h3>This project was developed as an example following the lessons of the Angular Course of Maximilian Schwarzmüller on Udemy (Angular 7 (formerly Angular 2) - The Complete Guide)<h3> 
+<h3>This project was developed as an example following the lessons of the Angular Course of Maximilian Schwarzmüller on Udemy (Angular 7 (formerly Angular 2) - The Complete Guide)<h3> <hr>
 # ServicesAndInjection
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
